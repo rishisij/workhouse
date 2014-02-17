@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:ns0="http://oiled.man.example.net/facts#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+    <owl:Ontology rdf:about=""/>
+    <owl:Class rdf:about="http://oiled.man.example.net/facts#Lecturer">
+        <rdfs:label>Lecturer</rdfs:label>
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:subClassOf>
+            <owl:Class rdf:about="http://oiled.man.example.net/facts#Academic"/>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class rdf:about="http://oiled.man.example.net/facts#Academic">
+        <rdfs:label>Academic</rdfs:label>
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:subClassOf>
+            <owl:Class rdf:about="http://oiled.man.example.net/facts#Person"/>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class rdf:about="http://oiled.man.example.net/facts#Student">
+        <rdfs:label>Student</rdfs:label>
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:subClassOf>
+            <owl:Class rdf:about="http://oiled.man.example.net/facts#Person"/>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class rdf:about="http://oiled.man.example.net/facts#Person">
+        <rdfs:label>Person</rdfs:label>
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+    </owl:Class>
+    <owl:Class rdf:about="http://oiled.man.example.net/facts#Professor">
+        <rdfs:label>Professor</rdfs:label>
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:subClassOf>
+            <owl:Class rdf:about="http://oiled.man.example.net/facts#Academic"/>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:Class rdf:about="http://oiled.man.example.net/facts#Happy">
+        <rdfs:label>Happy</rdfs:label>
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:subClassOf>
+            <owl:Class rdf:about="http://oiled.man.example.net/facts#Person"/>
+        </rdfs:subClassOf>
+    </owl:Class>
+    <owl:ObjectProperty rdf:about="http://oiled.man.example.net/facts#hasFriend">
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:label>hasFriend</rdfs:label>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://oiled.man.example.net/facts#isFriendOf">
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:label>isFriendOf</rdfs:label>
+        <owl:inverseOf rdf:resource="http://oiled.man.example.net/facts#hasFriend"/>
+    </owl:ObjectProperty>
+    <owl:Class rdf:about="http://oiled.man.example.net/facts#Student">
+        <owl:disjointWith>
+            <owl:Class rdf:about="http://oiled.man.example.net/facts#Academic"/>
+        </owl:disjointWith>
+    </owl:Class>
+    <rdf:Description rdf:about="http://oiled.man.example.net/facts#bob">
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:label>bob</rdfs:label>
+        <rdf:type>
+            <owl:Class rdf:about="http://oiled.man.example.net/facts#Student"/>
+        </rdf:type>
+        <rdf:type>
+            <owl:Class>
+                <owl:complementOf>
+                    <owl:Class rdf:about="http://oiled.man.example.net/facts#Happy"/>
+                </owl:complementOf>
+            </owl:Class>
+        </rdf:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://oiled.man.example.net/facts#yolanda">
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:label>yolanda</rdfs:label>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://oiled.man.example.net/facts#hasFriend"/>
+                <owl:cardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">2</owl:cardinality>
+            </owl:Restriction>
+        </rdf:type>
+        <ns0:hasFriend rdf:resource="http://oiled.man.example.net/facts#bob"/>
+        <ns0:hasFriend rdf:resource="http://oiled.man.example.net/facts#charlie"/>
+    </rdf:Description>
+    <owl:Thing rdf:about="http://oiled.man.example.net/facts#quentin">
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:label>quentin</rdfs:label>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <ns0:hasFriend rdf:resource="http://oiled.man.example.net/facts#bob"/>
+        <ns0:hasFriend rdf:resource="http://oiled.man.example.net/facts#charlie"/>
+    </owl:Thing>
+    <rdf:Description rdf:about="http://oiled.man.example.net/facts#zeke">
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:label>zeke</rdfs:label>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://oiled.man.example.net/facts#hasFriend"/>
+                <owl:cardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:cardinality>
+            </owl:Restriction>
+        </rdf:type>
+        <ns0:hasFriend rdf:resource="http://oiled.man.example.net/facts#bob"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://oiled.man.example.net/facts#charlie">
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:label>charlie</rdfs:label>
+        <rdf:type>
+            <owl:Class rdf:about="http://oiled.man.example.net/facts#Professor"/>
+        </rdf:type>
+        <rdf:type>
+            <owl:Class rdf:about="http://oiled.man.example.net/facts#Happy"/>
+        </rdf:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://oiled.man.example.net/facts#arthur">
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:label>arthur</rdfs:label>
+        <rdf:type>
+            <owl:Class rdf:about="http://oiled.man.example.net/facts#Student"/>
+        </rdf:type>
+        <rdf:type>
+            <owl:Class rdf:about="http://oiled.man.example.net/facts#Happy"/>
+        </rdf:type>
+    </rdf:Description>
+    <owl:Thing rdf:about="http://oiled.man.example.net/facts#richard">
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:label>richard</rdfs:label>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <ns0:hasFriend rdf:resource="http://oiled.man.example.net/facts#charlie"/>
+    </owl:Thing>
+    <rdf:Description rdf:about="http://oiled.man.example.net/facts#diane">
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:label>diane</rdfs:label>
+        <rdf:type>
+            <owl:Class rdf:about="http://oiled.man.example.net/facts#Professor"/>
+        </rdf:type>
+        <rdf:type>
+            <owl:Class>
+                <owl:complementOf>
+                    <owl:Class rdf:about="http://oiled.man.example.net/facts#Happy"/>
+                </owl:complementOf>
+            </owl:Class>
+        </rdf:type>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://oiled.man.example.net/facts#william">
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:label>william</rdfs:label>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://oiled.man.example.net/facts#hasFriend"/>
+                <owl:cardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">0</owl:cardinality>
+            </owl:Restriction>
+        </rdf:type>
+    </rdf:Description>
+    <owl:Thing rdf:about="http://oiled.man.example.net/facts#roberta">
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:label>roberta</rdfs:label>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <ns0:hasFriend rdf:resource="http://oiled.man.example.net/facts#bob"/>
+    </owl:Thing>
+    <rdf:Description rdf:about="http://oiled.man.example.net/facts#xanthe">
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:label>xanthe</rdfs:label>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://oiled.man.example.net/facts#hasFriend"/>
+                <owl:cardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:cardinality>
+            </owl:Restriction>
+        </rdf:type>
+        <ns0:hasFriend rdf:resource="http://oiled.man.example.net/facts#arthur"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://oiled.man.example.net/facts#zaphod">
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:label>zaphod</rdfs:label>
+        <rdf:type>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://oiled.man.example.net/facts#hasFriend"/>
+                <owl:cardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#nonNegativeInteger">1</owl:cardinality>
+            </owl:Restriction>
+        </rdf:type>
+        <ns0:hasFriend rdf:resource="http://oiled.man.example.net/facts#charlie"/>
+    </rdf:Description>
+    <owl:Thing rdf:about="http://oiled.man.example.net/facts#patricia">
+        <rdfs:comment><![CDATA[]]></rdfs:comment>
+        <rdfs:label>patricia</rdfs:label>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <ns0:hasFriend rdf:resource="http://oiled.man.example.net/facts#arthur"/>
+    </owl:Thing>
+</rdf:RDF>

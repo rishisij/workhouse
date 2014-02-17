@@ -1,0 +1,884 @@
+vGluTs
+sRGBB(r,g,b)
+mmHg
+mTOR
+mGluR5 NAMs
+mGluR2/3 Agonists
+mACh antagonists (Anticholinergics)
+log P
+kPa
+kH
+iso
+crotethamide
+cropropamide
+cis
+at T (K)
+Z
+Years active
+Xanthine derivatives
+Website
+Wavelength
+Wall/ membrane
+Viscosity
+Vesicular
+Vapor pressure
+Van der Waals radius
+VMAT
+V-agents
+Unsorted
+Units and formations
+Unit cell
+Unit
+UniProt
+Uncategorized opioids
+Ultraviolet fluorescence
+UNII
+UN number
+U.S. Permissible exposure limit (PEL)
+Type
+Twinning
+Triplepoint
+Triazolobenzodiazepines
+Triazoles
+Transporter inhibitors
+Transporter
+Trade names
+Toxic metals (cadmium lead mercury thallium)
+Topics
+Threshold Limit Value
+Thienodiazepines
+Thiazoles
+Thiambutenes
+Thermodynamic data
+Thermal conductivity
+Thebaine
+Tetrahydroisoquinobenzodiazepines
+Tetracyclics&lt;/small&gt;
+Tenacity
+Tea– black, green, and other types,– steeped for 3 min.
+Target
+TZDs/&quot;glitazones&quot; (PPAR)
+TSPO agonists
+TH inhibitors
+TH
+TCDB
+Synthetic
+Synthesis modifiers
+Synonyms
+Symbols
+Symbol
+Superfamily
+Substitutes
+Substituted ethylenediamines
+Substituted alkylamines
+Subcutaneous injection
+Strunz classification
+Structure and properties
+Streak
+Std enthalpy of formation ?fHo298
+Std enthalpy of combustion ?cHo298
+Standard molar entropy So298
+Standard atomic weight
+Speed of sound
+Spectral data
+Specific heat capacity, C
+Specific gravity
+Species and varieties
+Species
+Spec. rot
+Space-filling model
+Space group
+Source
+Solubility product, Ksp of AgOH
+Solubility product, Ksp
+Solubility in water
+Solubility in sulfuric acid
+Solubility in propylene glycol
+Solubility in other solvents
+Solubility in organic solvents
+Solubility in nitric acid in ethanol in methanol
+Solubility in methanol and ethanol
+Solubility in methanol
+Solubility in isopropanol
+Solubility in hydroxylamine
+Solubility in hydrochloric acid
+Solubility in glycerol
+Solubility in glyceride oils, methanol, ethanol, ether, acetone, and most organic solvents, especially chlorinated hydrocarbons
+Solubility in formamide
+Solubility in ethylene glycol
+Solubility in ether, acetone, benzene, pyridine
+Solubility in ether
+Solubility in ethanol, methanol
+Solubility in ethanol, acetone, diethyl ether, benzene
+Solubility in ethanol, acetone, and benzene
+Solubility in ethanol
+Solubility in dilute acids
+Solubility in diethyl ether
+Solubility in chloroform
+Solubility in chlorocarbons
+Solubility in benzene, THF
+Solubility in benzene
+Solubility in ammonium hydroxide
+Solubility in ammonia
+Solubility in all organic solvents
+Solubility in alcohol, ether, benzene, acetic acid
+Solubility in alcohol, ether
+Solubility in alcohol, acetone
+Solubility in alcohol acid
+Solubility in alcohol
+Solubility in acids
+Solubility in acid
+Solubility in acetonitrile
+Solubility in acetone Methanol Ethanol Diethyl ether
+Solubility in acetone
+Solubility in acetic acid
+Solubility in [[benzene, ether, ethyl ether, sulfuric acid]]
+Solubility in [[alcohol, acetone, ammonia]]
+Solubility in THF
+Solubility in Sulfolane
+Solubility in Methylpyrrolidone
+Solubility in Ethanol Ether Chloroform
+Solubility in Ethanol
+Solubility in Dimethylformamide
+Solubility in Dimethyl sulfoxide
+Solubility in Diethyl ether
+Solubility in DMSO, methanol, ethanol
+Solubility in DMSO
+Solubility in Chloroform
+Solubility in Chlorine
+Solubility in Alcohol
+Solubility
+Skin hazard
+Shock sensitivity
+Serotonin-norepinephrine-dopamine releasing agents (SNDRAs)&lt;/small&gt;
+Serotonin modulators and stimulators (SMSs)&lt;/small&gt;
+Serotonin antagonists and reuptake inhibitors (SARIs)&lt;/small&gt;
+Serotonin–norepinephrine reuptake inhibitors (SNRIs)&lt;/small&gt;
+Serotonin–norepinephrine–dopamine reuptake inhibitors (SNDRIs)&lt;/small&gt;
+Semisynthetics including Bentley compounds
+Selective serotonin reuptake inhibitors (SSRIs)&lt;/small&gt;
+Selective serotonin reuptake enhancers (SSREs)&lt;/small&gt;
+Secretagogues
+Salicylates
+SUPERFAMILY
+SMILES
+SMART
+SGLT2 inhibitors
+SEC Combust
+SCOP
+S-phrases
+Routes of administration
+Routes
+Riot control
+Reversal of neuromuscular blockade
+Reuptake inhibitors
+Related vinyl halide
+Related vanadium oxides
+Related ureas
+Related uranium fluorides
+Related unsaturated hydrocarbons
+Related tungsten oxides
+Related triazines
+Related titanium oxides
+Related titanium chlorides
+Related tin oxides
+Related thiols
+Related thioethers
+Related tetrahalosilanes
+Related tellurium oxides
+Related sulfuryl halides
+Related sulfur oxides
+Related sulfur fluorides
+Related sulfoxides
+Related sulfonic acids
+Related sulfides
+Related strong acids
+Related sodium oxides
+Related selenium oxides
+Related refractory ceramic materials
+Related pyrethroids
+Related polybrominated diphenyl ethers
+Related phosphorus oxoacids
+Related oxohalides
+Related oxides
+Related organophosphates
+Related organochlorides
+Related nitrogen oxides
+Related nitrogen hydrides
+Related niobium chlorides
+Related monosilanes
+Related molybdenum oxides
+Related molybdenum chlorides
+Related molecules with 3-membered rings
+Related metallocenes
+Related metal carbonyls
+Related manganese sulfides
+Related manganese oxides
+Related lubricants
+Related ligands
+Related lead oxides
+Related ketones
+Related ketone
+Related keto-acids, carboxylic acids
+Related iron carbonyls
+Related iodomethanes
+Related interhalogen compounds
+Related hydroxylammonium salts
+Related hydrogen chalcogenides
+Related hydrocarbons
+Related hydrides
+Related heterocycles
+Related halogen oxoacids
+Related halobenzenes
+Related haloalkanes
+Related groups
+Related group 5 fluorides
+Related glycols
+Related fluoroplutoniums
+Related fluoromethanes
+Related fatty acids
+Related ethers
+Related esters
+Related diones
+Related diols
+Related dicarboxylic acids
+Related desiccants
+Related cycloalkanes
+Related cyclic ketones
+Related compounds:
+Related compounds
+Related complexes
+Related coagulants
+Related chlorosilanes
+Related chloromethanes
+Related chalcogenides
+Related carboxylic acids
+Related carboxylate esters
+Related carbon oxides
+Related carbodiimides
+Related butenes
+Related butanols
+Related boron compounds
+Related benzenediols
+Related bases
+Related aromatic hydrocarbons
+Related aromatic compounds
+Related aromatic amines
+Related amines
+Related alkyl halides
+Related alkenes and dienes
+Related alkenals
+Related alkanols
+Related alkanol
+Related alkanoic acids
+Related alkanes
+Related alkanenitriles
+Related alkane
+Related alkanamines
+Related alkanamides
+Related aldopentoses
+Related aldehydes
+Related aldehyde
+Related alcohols
+Related acyl halides
+Related acyl chlorides
+Related acid anhydrides
+Related Sterols
+Related Stanols
+Related Related organohalides
+Related Refractory ceramic materials
+Related PAHs
+Related Organosilicon compounds
+Related Nitrogen oxides
+Related Nitrogen heterocyclic compounds
+Related Lewis acids
+Related Ketones
+Related Isocyanates
+Related Fatty acids
+Related Ethers
+Related Carboxylic acids
+Related Aromatic amine
+Related Amine
+Related Amides
+Related -ines
+Related
+Rehydration
+Refractive index (nD)
+Refractive index
+References
+RefSeq (protein)
+RefSeq (mRNA)
+RefSeq
+Red Bull
+Recognized as an element by
+Receptor ligands
+Receptor
+Reaction
+Racetams
+RTECS number
+RE factor
+R/S statement
+R-phrases
+Quinazolinones
+Quinazolines
+Pyrrolodiazepines
+Pyrrolidines
+Pyridodiazepines
+Pyrazolopyridines
+Pyrazolones
+Pyrazolodiazepines
+Pyrazolidines
+Purine derivatives
+Pulmonary
+PubMed search
+PubChem
+Psychedelics 5-HT2AR agonists&lt;/small&gt;
+Protein binding
+Protein
+Pronunciation
+Prolyl endopeptidase inhibitors
+Progestogens
+Product
+Prodines
+Processing
+Procedures
+Preparation
+Pregnatriene (+2-ene)
+Pregnancy category
+Pregnancy cat.
+Pregnadienediol (+21-hydroxy)
+Pregnadiene (+1-ene)
+Precursors
+Portals Access related topics
+Polyene antimycotics (ergosterol binding)
+Polyclonal
+Polianite
+Point group
+Pleochroism
+Plasmalemmal
+Plants
+Pirinitramides
+Piperidinediones
+Piperazines
+Piperazine derivatives
+Phenylisobutylamines
+Phenylalkylpyrrolidines
+Phentermines
+Phenothiazine derivatives
+Phenols
+Phenmetrazines
+Phenazepanes
+Phenalkoxams
+Phase
+Pfam clan
+Pfam
+Peripherally acting (primarily antinicotinic, NMJ block)
+Peripheral
+Percolated coffee
+Past members
+Parachrysotile
+Paracetamol toxicity (Acetaminophen)
+Papaverine
+PROSITE
+PNMT
+PDE9
+PDE7
+PDE6
+PDE5
+PDE3
+PDE2
+PDE10
+PDE1
+PDB ligand ID
+PDB
+P (Pa)
+Oxytocin antagonist
+Oxidation states
+Oxidation state
+Oxicams
+Oxicam class
+Oxazolobenzodiazepines
+Oxazolines
+Others&lt;/small&gt;
+Others
+Other/ungrouped
+Other/ ungrouped
+Other peripheral vasodilators
+Other characteristics
+Other cations
+Other antidiarrheals
+Other antiallergics
+Other anions
+Other
+Orthochrysotile
+Oripavine derivatives
+Origin
+Organism
+Orexin antagonists
+Optical properties
+Opium and poppy straw derivatives
+Opioids See also: Opioids template
+Opioids
+Opioid overdose
+Open chain opioids
+Odor
+OPM superfamily
+OPM protein
+OMIM
+Norepinephrine-dopamine reuptake inhibitors (NDRIs)&lt;/small&gt;
+Norepinephrine-dopamine releasing agents (NDRAs)&lt;/small&gt;
+Norepinephrine-dopamine disinhibitors (NDDIs)&lt;/small&gt;
+Norepinephrine reuptake inhibitors (NRIs)&lt;/small&gt;
+Noradrenergic and specific serotonergic antidepressants (NaSSAs)&lt;/small&gt;
+Nonsteroidal
+Nonselective
+Nonbenzodiazepines
+Non-steroidal anti-inflammatories See also: NSAIDs template
+Nitrogen morphine derivatives
+Niacin and derivatives (HDL and LDL)
+Niacin and derivatives
+Neurogenics
+Neuroactive steroids
+Nettle
+Nervous system
+Nerve
+Natural opiates
+Naming
+Named by
+Name, symbol, number
+Name
+NSAID
+NK2 Antagonists
+NK1 Antagonists
+NIAID ChemDB
+NFPA 704
+N-Arylanthranilic acids (fenamates)
+Myosin inhibitor
+Mucolytics
+Mountain Dew
+Morphine
+Morphinans
+Morphides
+Moramides
+Molecular weight
+Molecular shape
+Molecular function
+Molecular formula
+Molar mass
+Molar heat capacity
+Mol. mass
+Mohs scale hardness
+Mode of administration
+Mitotic inhibitors
+Miscellaneous
+Mineralocorticoids (3-one, 4-ene, no FG at 16)
+Methanol / Ethylene glycol poisoning
+Methadols
+Metastibnite
+Metabotropic
+Metabolism
+Members
+Meltingpoint
+Melting point
+Melt. point
+Melatonin agonists
+Meglitinides/&quot;glinides&quot;
+MedlinePlus
+MeSH
+Main hazards
+Magnetic susceptibility
+Magnetic ordering
+Macrolides/ other IL-2 inhibitors
+MTTP inhibitors (VLDL)
+MSDS
+MCH1 antagonists
+MAOB-Selective&lt;/small&gt;
+M: VAS
+M: RES
+M: PSO/PSI
+M: OBS
+M: NUT
+M: MUS, DF+DRCT
+M: MET
+M: LMC
+M: END
+M: DIG
+M: CNS
+Luster
+Low-temperature fluorine phases
+Lodestone
+Locus
+Location (UCSC)
+Liver
+Liquid density at m.p.
+Liquid density at b.p.
+Licence data
+Legal status
+Lattice constant
+Labels
+LD50
+L&lt;/small&gt;-Lactic acid
+Ketobemidones
+Kainate
+KEGG
+Jolt Cola
+Jmol-3D images
+Isoelectric point
+Ionotropic
+Ionization energies (more)
+Ionization energies
+Intravenous injection
+Intraperitoneal injection
+Intracellular (reception)
+Intracellular (initiation)
+Intracellular
+Intestinal adsorbents
+InterPro
+Insulin
+Injection
+Inhalation hazard
+Inhalation
+Inhalants Mixed MOA&lt;/small&gt;
+Ingestion hazard
+Indoles
+Indirect
+Incapacitating
+Imidazoline derivatives/ Alpha blockers
+Imidazobenzodiazepines
+IUPHAR ligand
+Hydrofluoric acid
+Hydrazones
+Hybridisation
+Histamine H3 receptor antagonists
+Hex triplet
+Hersheys Special Dark (45% cacao content)
+Hersheys Milk Chocolate (11% cacao content)
+Heparin
+Heatoffusion
+Heat of vaporization
+Halogenated morphine derivatives
+Haloalkanes
+Half-life
+HUGO
+HSV (h, s, v)
+H4
+H1 antagonists (Antihistamines)
+H1 Antagonists
+Guayakí yerba mate (loose leaf)
+Guaraná Antarctica
+Group, period, block
+Gmelin Reference
+Glutamate receptor
+Glucocorticoids (3-one, 4-ene, 11-FG, 17-hydroxy)
+Genres
+GPR40 Free fatty acid receptor 1
+GPER
+GLP-1 agonists
+GI tract
+GHS signal word
+GHS precautionary statements
+GHS pictograms
+GHS hazard statements
+GHB overdose
+GABAB agonists
+GABAAR agonists
+GABAA PAMs
+GABAA ?5 inverse agonists
+Fusibility
+Friction sensitivity
+Fracture
+Formula mass
+Formula (repeating unit)&lt;/small&gt;
+Formula
+For topical use
+Fold
+Flash point
+First isolation
+Find out more on Wikipedias Sister projects
+Family
+Eye hazard
+Extracellular
+External IDs
+Explosive velocity
+Explosive limits
+Expectorants
+Excretion
+Excedrin tablet
+Exact mass
+Eugeroics / Benzhydryl compounds
+Eugeroics
+Estrogens
+Ergot alkaloids
+Equipment
+Enzyme (inhibitors)&lt;/small&gt;
+Enzyme
+Entrez
+Ensembl
+Endogenous
+Emetic
+Elimination half-life
+Element category
+Electronegativity
+Electron mobility
+Electron configuration
+Electrical resistivity
+EU classification
+EU Index
+EINECS number
+EC-number
+EC number
+Dual PPAR agonists
+DrugBank
+Drip coffee
+Dopamine reuptake inhibitors (DRIs)&lt;/small&gt;
+Dopamine D1 receptor agonists
+Dissociatives NMDAR antagonists&lt;/small&gt;
+Dispersion
+Discovery
+Directly acting
+Dipole moment
+Diphenylmethyl- piperazines
+Dihydrocodeine series
+Digoxin toxicity
+Diaphaneity
+Diagnostic features
+Depolarizing
+Dependence liability
+Density (near r.t.)
+Density
+Dana classification
+DPP-4 inhibitors
+DBH inhibitors
+DBH
+DAO
+D2/D3 Antagonists
+D
+Cymophane
+Cyanide poisoning
+Crystals of CuSO4·5H2O
+Crystal system
+Crystal symmetry
+Crystal structure
+Crystal habit
+Criticalpoint
+Critical relative humidity
+Coxibs
+Covalent radius
+Cough suppressants
+Coordination geometry
+Convulsants
+Components
+Combinations
+Colour
+Color
+Coffee, espresso
+Coffee, decaffeinated
+Cofactors
+Codeine-dionine family
+Codeine
+Coca-Cola Classic
+Clinochrysotile
+Cleavage
+Class
+ClO? 3 + 2 OH? ? ClO? 4 + H2O + 2 e?
+ClO? 2 + 2 OH? ? ClO? 3 + H2O + 2 e?
+ClO? + 2 OH? ? ClO? 2 + H2O + 2 e?
+Cl? + 2 OH? ? ClO? + H2O + 2 e?
+Circulatory system
+Chiral rotation [?]D
+ChemSpider
+ChEMBL
+ChEBI
+Centrally acting sympathomimetics
+Centrally acting
+Central
+Cellular component
+Cathinones
+Category
+Catabolism
+Carbamates
+Capsaicin derivatives
+Cannabinoids
+Calcium channel blocker
+Caffeine tablet (regular-strength)
+Caffeine tablet (extra-strength)
+CRH1 Antagonists
+COX-2 inhibitors
+COMT inhibitors
+COMT
+CMYKH (c, m, y, k)
+CETP inhibitors (HDL)
+CB1 Agonists (Cannabinoids)
+CAS registry number
+CAS number
+C
+Bulk modulus
+Brands
+Books View or order collections of articles
+Boilingpoint
+Boiling point
+Blood vessels
+Blood
+Blister
+Birefringence
+Biological process
+Bioavailability
+Bile acid sequestrants/resins (LDL)
+Bicyclics&lt;/small&gt;
+Benzodiazepines
+Benzodiazepine prodrugs
+Benzodiazepine overdose
+Benzimidazoles
+Benzazepines
+Beilstein Reference
+Basicity (pKb)
+Barbiturate overdose
+Band gap
+Ball-and-stick model of CuSO4
+BChE inhibitors
+B
+Autoignition temperature
+Atomic radius
+Atmospheric OH rate constant
+Associated acts
+Arylcyclohexylamines
+Appearance
+Antipropulsives (opioids)
+Antiprogestogens/ SPRMs
+Antioxidants
+Antiestrogens/ SERMs
+Antidiarrheal micro-organisms
+Anticholinergics (Antimuscarinics)
+Antiallergic agents excluding corticosteroids
+Anti-inflammatory preparations, non-steroids
+Anthranilic acid (fenamate) class
+Anilides
+Anhydrous
+Androstene
+Anabolism
+Amylin analog
+Ampromides
+Ampakines
+Ampakine-like
+Aminoalkyl ethers
+Alt. symbols
+Alpha-adrenergic agonists
+Allylamines (squalene monooxygenase inhibitors)
+Alkylamines
+Alkaloid salts mixtures
+Alexandrite
+Aldosterone antagonists
+Alcohols
+Agents and chemicals
+Adenosine antagonists
+Adamantanes
+Active opiate metabolites
+Acidity (pKa)
+Acetic acid derivatives
+Acetic acid class
+Absorbance
+Abbreviations
+ATCvet code
+ATC code
+AHFS/Drugs.com
+ACh release inhibitors
+AAAD/DDC inhibitors
+AAAD
+A
+?max
+?R agonists
+?7 nicotinic agonists / PAMs
+?2? VDCC Blockers
+?2-agonists
+?2-Adrenergic agonists
+?1 agonists
+?1
+?-glucan synthase inhibitors
+?-Terpinene
+?-Phellandrene
+? form
+? (3.1%)
+?
+81Br
+8
+79Br
+7
+6
+5-HT1F
+5-HT1E
+5-HT1A Agonists
+5-HT Serotonin G-protien receptor antagonists
+4th
+4-Phenylpiperidines
+3rd
+3H
+3DMet
+3?-HSD (I, II)
+3?-HSD
+37Cl
+36Cl
+35Cl
+3,6-diesters of morphine
+2nd
+2V angle
+2H
+26
+21-Hydroxylase
+2-amino-1-phenylethanol derivatives
+2,3-Benzodiazepines *
+2
+1H
+19F
+18O
+18F
+18-Hydroxylase
+17O
+17?-HSD (I-XIV)
+17?-HSD
+17-OH
+16O
+16
+15N
+14N
+14
+13N
+136Xe
+135Xe
+135I
+134Xe
+133Xe
+132Xe
+131Xe
+131I
+130Xe
+129Xe
+129I
+128Xe
+127Xe
+127I
+126Xe
+125Xe
+125I
+124Xe
+124I
+123I
+12
+11?-Hydroxylase
+10
+1,5-Benzodiazepines
+1
+0
+-cept (Fusion)
++7
++6
++5
++4
++3
++1
+(?)-?-Thujone
+(?)-?-Elemene
+(+)-?-Elemene
+#WHO-EM ‡Withdrawn from market Clinical trials: †Phase III §Never to phase III M: TOX
+#WHO-EM ‡Withdrawn from market Clinical trials: †Phase III §Never to phase III M: PSO/PSI
+#WHO-EM ‡Withdrawn from market Clinical trials: †Phase III §Never to phase III M: MYC
+#WHO-EM ‡Withdrawn from market Clinical trials: †Phase III §Never to phase III M: ? FRS

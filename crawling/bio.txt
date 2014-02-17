@@ -1,0 +1,307 @@
+Xanthine derivatives
+Water
+Viscosity
+Vesicular
+Vapor pressure
+VACM-1
+Use
+UniProt
+UNII
+UN number
+Type
+Trade names
+Topics
+Thermodynamic data
+Tea– black, green, and other types,– steeped for 3 min.
+TCDB
+Synonyms
+Symbols
+Symbol
+Survival to hospital discharge[36]
+Survival to hospital admission[37]
+SUPERFAMILY
+Subunit Name
+Substitutes
+Structure and properties
+Std enthalpy of formation ?fHo298
+Std enthalpy of combustion ?cHo298
+Standard molar entropy So298
+Spectral data
+Specific heat capacity, C
+Species and varieties
+Species
+Spec. rot
+Space group
+Solubility in water
+Solubility in propylene glycol
+Solubility in other solvents
+Solubility in methanol, diethyl ether
+Solubility in methanol and ethanol
+Solubility in glycerol
+Solubility in ethanol
+Solubility in DMSO, methanol, ethanol
+Solubility in diethyl ether
+Solubility in chloroform
+Solubility in acetone
+Solubility in acetic acid
+Solubility
+SMILES
+SMART
+SEC Combust
+SCOP
+S-phrases
+RTECS number
+Routes of administration
+Routes
+ROSC[36]
+Riboflavin (vit. B2)
+Reuptake inhibitors
+Related ureas
+Related Ketones
+Related keto-acids, carboxylic acids
+Related compounds
+Related carboxylic acids
+Related aromatic compounds
+Related alkenals
+Related alkanoic acids
+Related alkanamines
+Related aldopentoses
+Related aldehydes
+Related ?-hydroxy acids
+Related
+Region
+RefSeq (protein)
+RefSeq (Prot)
+RefSeq (mRNA)
+RefSeq
+Refractive index (nD)
+Red Bull
+Receptor ligands
+Racetams
+R/S statement
+R-phrases
+Pyrrolidines
+PubMed search
+PubChem
+Protein type
+Protein binding
+Protein
+PROSITE
+Prolyl endopeptidase inhibitors
+Product
+Processing
+PRIAM
+Preparation
+Pregnancy category
+Pregnancy cat.
+Precursors
+Potassium
+Plasmalemmal
+Plants
+Piperazines
+Phytochemicals
+Phenmetrazines
+Pfam clan
+Pfam
+Percolated coffee
+PDB structures
+PDB
+Oxazolines
+Others
+Other cations
+Other anions
+Organism
+OPM superfamily
+OPM protein
+OMIM
+Odor
+Number of deaths and neurologically impaired survivors
+NIAID ChemDB
+NFPA 704
+Neurogenics
+MSDS
+Mountain Dew
+Molecular shape
+Molecular function
+Molecular formula
+Molar mass
+Mol. mass
+Misc:
+mg/day
+mg/(100g) [note 1]
+MetaCyc
+Metabolism
+MeSH
+MEROPS
+Melting point
+Melt. point
+MedlinePlus
+Main hazards
+M: PSO/PSI
+low
+log P
+Locus
+Location (UCSC)
+Licence data
+Legal status
+LD50
+L&lt;/small&gt;-Lactic acid
+KEGG
+Jolt Cola
+Jmol-3D images
+IUPHAR ligand
+Isoelectric point
+Iron
+InterPro
+IntEnz
+In subgroup: PEA[37]
+In subgroup: Collapse to ED arrival time of 30–45 minutes[37]
+In subgroup: Collapse to ED arrival time of 15–30 minutes[37]
+ICD-9
+ICD-10
+HUGO
+Histamine H3 receptor antagonists
+Hersheys Special Dark (45% cacao content)
+Hersheys Milk Chocolate (11% cacao content)
+Hb-?2
+Hb-?1
+Hb-?
+Half-life
+Guayakí yerba mate (loose leaf)
+Guaraná Antarctica
+Gmelin Reference
+Glycone
+Glutamate receptor
+GHS signal word
+GHS precautionary statements
+GHS pictograms
+GHS hazard statements
+Geometry
+Gene Ontology
+GABAA ?5 inverse agonists
+Function
+Formula
+Flash point
+Fat
+Failure of ROSC
+External IDs
+Explosive limits
+ExPASy
+Excretion
+Excedrin tablet
+Exact mass
+Eugeroics / Benzhydryl compounds
+Eugeroics
+EU Index
+EU classification
+Entrez
+Ensembl
+Energy
+Elimination half-life
+EC-number
+EC number
+DrugBank
+Drip coffee
+Dopamine D1 receptor agonists
+Dipole moment
+Dependence liability
+Density
+Death within 24 hours
+Death before hospital discharge
+Death before hospital admission
+Cys-Tyr-Phe-Gln-Asn-Cys-Pro-Lys-Gly-NH2
+Cys-Tyr-Phe-Gln-Asn-Cys-Pro-Arg-Gly-NH2
+Cys-Tyr-Phe-Arg-Asn-Cys-Pro-Ile-Gly-NH2
+Cys-Tyr-Ile-Ser-Asn-Cys-Pro-Ile-Gly-NH2
+Cys-Tyr-Ile-Ser-Asn-Cys-Pro-Gln-Gly-NH2
+Cys-Tyr-Ile-Gln-Ser-Cys-Pro-Ile-Gly-NH2
+Cys-Tyr-Ile-Gln-Asn-Cys-Pro-Pro-Gly-NH2
+Cys-Tyr-Ile-Gln-Asn-Cys-Pro-Leu-Gly-NH2
+Cys-Tyr-Ile-Gln-Asn-Cys-Pro-Ile-Gly-NH2
+Cys-Tyr-Ile-Gln-Asn-Cys-Pro-Arg-Gly-NH2
+Cys-Tyr-Ile-Asn/Gln-Asn-Cys-Pro-Leu/Val-Gly-NH2
+Cys-Phe-Val-Arg-Asn-Cys-Pro-Thr-Gly-NH2
+Cys-Phe-Trp-Thr-Ser-Cys-Pro-Ile-Gly-NH2
+Cys-Phe-Phe-Gln-Asn-Cys-Pro-Arg-Gly-NH2
+Cys-Phe-Ile-Arg-Asn-Cys-Pro-Lys-Gly-NH2
+Cys-Leu-Ile-Thr-Asn-Cys-Pro-Arg-Gly-NH2
+Cys-Ile-Ile-Arg-Asn-Cys-Pro-Arg-Gly-NH2
+Crystal structure
+Convulsants
+Components
+Coffee, espresso
+Coffee, decaffeinated
+Cofactors
+Cofactor(s)
+Coca-Cola Classic
+Chromosome
+Chiral rotation [?]D
+ChemSpider
+ChEMBL
+ChEBI
+Centrally acting sympathomimetics
+Cellular component
+CDD
+Catabolism
+CAS number
+Carbohydrates
+Calcium
+Caffeine tablet (regular-strength)
+Caffeine tablet (extra-strength)
+BRENDA
+Brands
+Bond
+Boiling point
+Biological target
+Biological process
+Bioavailability
+Benzazepines
+Beilstein Reference
+BChE inhibitors
+Basicity (pKb)
+AVPR2
+AVPR1B or AVPR3
+AVPR1A
+Autoignition temperature
+ATCvet code
+ATC code
+Arylcyclohexylamines
+Appearance
+Antioxidants
+Anabolism
+Ampakines
+Ampakine-like
+Alt. symbols
+Alpha-adrenergic agonists
+Alkylamines
+AHFS/Drugs.com
+Adenosine antagonists
+Adamantanes
+Acidity (pKa)
+Abbreviations
+?max
+?7 nicotinic agonists / PAMs
+7
+6
+5
+41
+4
+3DMet
+34
+2.1
+150
+15
+12.2
+11
+1.5
+1.1
+0.9
+0.8
+0.78
+0.54
+0.36
+0.3
+0.26
+0.13
+- Sugars
+- Dietary fiber

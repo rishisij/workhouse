@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head><title>Test Web App for Tomcat 7 or Other Servlet 3.0 Container</title>
+<script src="jquery-1.10.2.js"></script>
+<link rel="stylesheet"
+      href="./css/styles.css"
+      type="text/css"/>
+<script>      
+$(document).ready(function(){
+	  $("p").click(function(){
+	    $("*").hide();
+	  });
+	}); 
+   
+</script>
+</head>
+<body>
+<form name="testform">
+<input type=file name=fileb>
+<input type=text name=folder>
+<input type=button value="Get Folder"
+onclick="javascript:GetFolder();">
+</form>
+<p>hi this si sme<p>
+<script type="JavaScript">
+<!--
+function GetFolder() {
+	document.testform.folder.value=document.testform.fileb.value;
+}
+-->
+</script>
+
+</body></html>

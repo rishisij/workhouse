@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:clearspace="http://www.jivesoftware.com/xmlns/jive/rss">
+  <title>Community : Discussion List - All Communities</title>
+  <link rel="alternate" href="https://community.jboss.org/?view=discussions" />
+  <subtitle>Latest Forum Threads in Community</subtitle>
+  <id>https://community.jboss.org/?view=discussions</id>
+  <generator uri="http://jivesoftware.com/products/" version="6.0.3.0 ">Jive Engage</generator>
+  <updated>2013-09-11T10:19:30Z</updated>
+  <dc:date>2013-09-11T10:19:30Z</dc:date>
+  <dc:language>en</dc:language>
+  <entry>
+    <title>getResourceAsStream() returns NULL under JBoss 7.1 but OK under Tomcat 7</title>
+    <link rel="alternate" href="https://community.jboss.org/thread/232346" />
+    <category term="jboss" scheme="https://community.jboss.org/tags#/?containerType=14&amp;container=2075" />
+    <author>
+      <name>Al Koch</name>
+      <uri>/people/alkoch</uri>
+      <email>do-not-reply@jboss.com</email>
+    </author>
+    <updated>2013-09-11T10:19:30Z</updated>
+    <published>2013-09-09T19:58:59Z</published>
+    <summary type="html">&lt;!-- [DocumentBodyStart:f45ca0aa-c584-463e-b4ef-2954ddf88c01] --&gt;&lt;div class="jive-rendered-content"&gt;&lt;p&gt;Hello,&lt;/p&gt;&lt;p style="min-height: 8pt; height: 8pt; padding: 0px;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;I am trying to access a file that is located in the WEB-INF folder.&amp;nbsp; In particular, I have the following line of code in the init() handler of a servlet:&lt;/p&gt;&lt;p style="min-height: 8pt; height: 8pt; padding: 0px;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;InputStream s = servletContext.getResourceAsStream(sPath);&lt;/p&gt;&lt;p style="min-height: 8pt; height: 8pt; padding: 0px;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;where sPath = File.separator+"WEB-INF"+File.separator+"filename.ini";&lt;/p&gt;&lt;p style="min-height: 8pt; height: 8pt; padding: 0px;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;I have been running this under Tomcat 7 with no problem but I am trying to switch over to JBoss 7.1 and with no other changes the same code now returns a NULL. Can someone explain why this is failing under JBoss when it used to work under Tomcat?&lt;/p&gt;&lt;p style="min-height: 8pt; height: 8pt; padding: 0px;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Thank you,&lt;/p&gt;&lt;p&gt;Al&lt;/p&gt;&lt;/div&gt;&lt;!-- [DocumentBodyEnd:f45ca0aa-c584-463e-b4ef-2954ddf88c01] --&gt;&lt;img src='/beacon?t=1378895115606' /&gt;</summary>
+    <dc:date>2013-09-09T19:58:59Z</dc:date>
+    <clearspace:dateToText>5 minutes Less than a minute ago</clearspace:dateToText>
+    <clearspace:messageCount>2</clearspace:messageCount>
+    <clearspace:replyCount>1</clearspace:replyCount>
+    <clearspace:objectType>0</clearspace:objectType>
+  </entry>
+</feed>
+

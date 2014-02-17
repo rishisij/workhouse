@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/|stockp/" kind="src" path=""/>
+	<classpathentry kind="src" path="stockp"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/apache-mime4j-core-0.7.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/boilerpipe-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/commons-compress-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/crawler4j-3.3.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/geronimo-stax-api_1.0_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/htmlcleaner-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/httpcore-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/imap.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/je-4.0.92.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/jsoup-1.6.3.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/metadata-extractor-2.4.0-beta-1.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/tika-core-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/communityWebcrawler-master/lib/tika-parsers-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/191_data/Downl/mysql-connector-java-5.0.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

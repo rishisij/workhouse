@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="src/|components/FileChooserDemo.java|wow/" kind="src" path="srcd"/>
+	<classpathentry kind="src" path="src/wow"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0"/>
+	<classpathentry kind="lib" path="/home/gateway/Documents/191_data/Downl/commons-logging-1.1.1 (1).jar"/>
+	<classpathentry kind="lib" path="/home/gateway/Documents/191_data/Downl/httpclient-4.2-beta1.jar"/>
+	<classpathentry kind="lib" path="/home/gateway/Documents/191_data/Downl/httpcore-4.2-beta1.jar"/>
+	<classpathentry kind="lib" path="/home/gateway/Documents/191_data/Downl/httpmime-4.2-beta1.jar"/>
+	<classpathentry kind="lib" path="/home/gateway/Documents/191_data/Downl/solr-solrj-3.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/gateway/Documents/191_data/Downl/tika-app-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/gateway/Documents/191_data/Downl/tika-core-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/gateway/Documents/191_data/Downl/tika-parsers-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/gateway/Documents/191_data/Downl/slf4j-1.5.6/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="/home/gateway/Documents/191_data/Downl/slf4j-1.5.6/slf4j-simple-1.5.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
